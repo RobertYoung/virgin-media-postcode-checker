@@ -1,0 +1,10 @@
+# file extensions
+*.log
+
+# package directories
+node_modules
+jspm_packages
+lib
+
+# Serverless directories
+.serverless
